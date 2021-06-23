@@ -1,0 +1,16 @@
+C:\Users\bmircetic\nelnet-projects\Control-Flow\bin\Debug\net5.0\Control-Flow.exe
+C:\Users\bmircetic\nelnet-projects\Control-Flow\bin\Debug\net5.0\Control-Flow.deps.json
+C:\Users\bmircetic\nelnet-projects\Control-Flow\bin\Debug\net5.0\Control-Flow.runtimeconfig.json
+C:\Users\bmircetic\nelnet-projects\Control-Flow\bin\Debug\net5.0\Control-Flow.runtimeconfig.dev.json
+C:\Users\bmircetic\nelnet-projects\Control-Flow\bin\Debug\net5.0\Control-Flow.dll
+C:\Users\bmircetic\nelnet-projects\Control-Flow\bin\Debug\net5.0\ref\Control-Flow.dll
+C:\Users\bmircetic\nelnet-projects\Control-Flow\bin\Debug\net5.0\Control-Flow.pdb
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\Control-Flow.csproj.AssemblyReference.cache
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\Control-Flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\Control-Flow.AssemblyInfoInputs.cache
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\Control-Flow.AssemblyInfo.cs
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\Control-Flow.csproj.CoreCompileInputs.cache
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\Control-Flow.dll
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\ref\Control-Flow.dll
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\Control-Flow.pdb
+C:\Users\bmircetic\nelnet-projects\Control-Flow\obj\Debug\net5.0\Control-Flow.genruntimeconfig.cache
